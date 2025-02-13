@@ -6,4 +6,4 @@ Contains learning materials and resources for SAP CPI In Learning path which i m
 
 Welcome to our collection of learning roadmaps!
 
-Explore the [SAP CPI (Cloud Platform Integration) Learning Path](https://draw.roadmap.sh/6799dbfcd6a983c895619f2a) to get started with cloud platform integration.
+Explore the [SAP CPI (Cloud Platform Integration) Learning Path](https://roadmap.sh/r/sap-cpi-cloud-platform-integration-learning-path-l6ple) to get started with cloud platform integration.
